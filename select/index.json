@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "OPENING",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-11T14:01:51.952703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Opening: I Can't Turn You Loose",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/01_Opening__I_Can't_Turn_You_Loose_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Opening: I Can't Turn You Loose - Live Version",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/02_Opening__I_Can't_Turn_You_Loose_-_Live_Version_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Opening",
+      "artist": "The Blaze",
+      "has_synced": true,
+      "path": "select/03_Opening_The_Blaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Opening Salvo",
+      "artist": "Blue Scholars",
+      "has_synced": true,
+      "path": "select/04_Opening_Salvo_Blue_Scholars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grand Opening",
+      "artist": "Psapp",
+      "has_synced": false,
+      "path": "select/05_Grand_Opening_Psapp.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Opening Up (Ce soir on danse)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/06_Opening_Up_(Ce_soir_on_danse)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Opening Night",
+      "artist": "dEUS",
+      "has_synced": false,
+      "path": "select/07_Opening_Night_dEUS.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Opening",
+      "artist": "Danny Elfman",
+      "has_synced": false,
+      "path": "select/08_Opening_Danny_Elfman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OPENING",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_OPENING_KMNZ.txt"
+    }
+  ]
+}
